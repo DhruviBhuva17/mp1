@@ -1,0 +1,10 @@
+# data.yaml for YOLOv5
+train: datasetyolo/images/train
+val: datasetyolo/images/valid
+test: datasetyolo/images/test
+
+# number of classes
+nc: 1  # change to the number of classes you have
+
+# class names
+names: ['pothole']  # replace with your class names if more than one
